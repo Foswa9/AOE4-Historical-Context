@@ -15,11 +15,16 @@ img.Cool-infantry-man{
     float: right;
 }
 
-.navigator{
+.navigator-text{
     position: absolute;
     bottom: 0;
     left: 0;
     right: 0;
     padding: 100px;
 
+}
+
+.HREmaaUnit{
+    max-width: 100%;
+    float: right;
 }

@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+
+
+
+img.China-flag {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+img.China-Art{
+
+    float: right;
+}
+
+
+
+.menu-navigator{
+    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.innerdiv{
+    width: 200px;
+    height: 200px;
+}
