@@ -24,7 +24,23 @@ img.Cool-infantry-man{
 
 }
 
-.HREmaaUnit{
-    max-width: 100%;
-    float: right;
+
+/* Beautiful way on how to align my three children divs
+Source: https://www.youtube.com/watch?v=Q1d-1FzdXEE */
+.parent-div{
+    display: flex;
+    
+    background-color: blue;
+}
+.parent-div div{
+
+    background-color: green;
+    align-items: center;
+    width: 100%;
+    margin: 20px;
+    
+}
+.text-div{
+    text-align: center;
+    
 }
