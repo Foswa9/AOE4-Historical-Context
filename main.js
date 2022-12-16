@@ -34,6 +34,10 @@ const landButton = document.getElementById('land-button');
 const landText = document.getElementById('landknecht-text');
 const landImage = document.getElementById('landknetcht-unit');
 
+const spearmenButton = document.getElementById('spearmen-button');
+const spearmenText = document.getElementById('spearmen-text');
+const spearmenImage = document.getElementById('single-spearman-unit');
+
 function divHider(dividerName) {
   if (dividerName.style.display != 'none') {
     dividerName.style.display = 'none';
@@ -47,4 +51,7 @@ landButton.addEventListener('click', function(){divHider(landImage)});
 
 maaButton.addEventListener('click', function() { divHider(maaText); });
 maaButton.addEventListener('click', function() { divHider(maaImage); });
+
+spearmenButton.addEventListener('click', function() {divHider(spearmenText)});
+spearmenButton.addEventListener('click', function() {divHider(spearmenImage)});
 

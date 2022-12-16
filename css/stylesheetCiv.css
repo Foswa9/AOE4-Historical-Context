@@ -1,4 +1,4 @@
-img.HRE-FLAG {
+img.CIV-FLAG {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -8,7 +8,7 @@ img.HRE-FLAG {
 h1{
     text-align: center;
 }
-img.Cool-infantry-man{
+img.civ-Art{
 
     max-width: 100%;
 
@@ -24,13 +24,26 @@ img.Cool-infantry-man{
 
 }
 
+.menu-navigator-china{
+
+    display: flex;
+    background-image: url(images/China-splashart.png);
+
+}
+.menu-navigator-china div{
+    position: absolute;
+    background-color: green;
+    align-items: center;
+    width: 100%;
+}
+
 
 /* Beautiful way on how to align my three children divs
 Source: https://www.youtube.com/watch?v=Q1d-1FzdXEE */
 .parent-div{
     display: flex;
     
-    background-color: blue;
+    background-color: red;
 }
 .parent-div div{
 

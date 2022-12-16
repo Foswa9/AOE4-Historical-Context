@@ -1,35 +1,21 @@
 h1{
+    color: white;
     text-align: center;
 }
-
-
-
-img.China-flag {
-
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-
+body{
+    background: #353535;
 }
 
-img.China-Art{
-
-    float: right;
-}
-
-
-
-.menu-navigator{
-    
-    
+.child-unitcard{
     display: flex;
-    justify-content: center;
-    align-items: center;
     
+    background-color: #323133;
 }
+.child-unitcard div{
 
-.innerdiv{
-    width: 200px;
-    height: 200px;
+    background-color: green;
+    align-items: center;
+    width: 100%;
+    margin: 20px;
+    
 }
