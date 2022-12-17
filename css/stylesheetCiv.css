@@ -1,3 +1,12 @@
+/*
+    10 modern layouts in 1 line of css:  https://www.youtube.com/watch?v=qm0IfG1GyZU
+    Amazing video for css styling for modern layouts
+*/
+
+
+body{
+    background-color: #161b22;
+}
 img.CIV-FLAG {
     display: block;
     margin-left: auto;

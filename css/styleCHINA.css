@@ -15,7 +15,13 @@ body{
 
     background-color: green;
     align-items: center;
+    
     width: 100%;
     margin: 20px;
     
+}
+.child-element-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

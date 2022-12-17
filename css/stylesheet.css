@@ -1,18 +1,21 @@
+/* 
+    The 2 colours below are from AOE world
+    #0d1117 
+    #161b22
+
+    10 modern layouts in 1 line of css:  https://www.youtube.com/watch?v=qm0IfG1GyZU
+    Amazing video for css styling for modern layouts
+ */
+
 h1{
     color:red;
 }
-
-.navigation-bar{
-    background: white;
-    
-}
-
-.navigation-bar-text{
-    color: white;
-}
-
 .introduction{
     text-align: center;
+}
+
+body{
+    background-color: #2a2a2a;
 }
 
 
