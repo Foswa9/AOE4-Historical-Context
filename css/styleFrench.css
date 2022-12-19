@@ -1,0 +1,48 @@
+.class2 {
+    display: flex;
+    
+    height: 564px;
+    background-image: url("../images/French-splashart.webp");
+    padding-top: 200px;
+    
+    
+    justify-content: start;
+    
+}
+.class2 div{
+    margin: 10px;
+    background-color: brown;
+    
+    
+    
+}
+#text{
+    width: 10%;
+}
+.civ-introduction{
+    display: flex;
+    background-color: green;
+    justify-content: space-between;
+}
+
+.civ-introduction div{
+    background-color: red;
+    align-items: center;
+    width: 100%;
+    margin: 30px;
+    text-align: center;
+    
+}
+.quote{
+
+}
+.navigation-bar{
+    background-color: green;
+}
+
+
+
+.selector{
+    padding-top: 100px;
+    text-align: center;
+}
