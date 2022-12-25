@@ -1,0 +1,29 @@
+.unit-showcase-parent{
+    display: flex;
+    justify-content: center;
+}
+
+.unit-showcase-parent div{
+    margin: 20px;
+    background-color: brown;
+}
+#unit-description-parent{
+    display: flex;
+    flex-direction: column;
+}
+#unit-description{
+    display: flex;
+    
+}
+
+#unit-description-parent div{
+    background-color: aquamarine;
+}
+
+#unit-role-text{
+    max-width: 20px;
+}
+
+#unit-role{
+    max-width: 300px;
+}
